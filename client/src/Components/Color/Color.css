@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border: .25em black solid;
+  padding: .5em;
+  margin: 1em auto;
+  align-items: center;
+  
+}
+
+.container:hover{
+    box-shadow: hsla(170, 8%, 29%, 0.397) .25em .25em .25em .25em;
+}
+
+.new-colors {
+  text-align: center;
+  color: teal;
+  background: rgb(201, 125, 125);
+  width: 30em;
+  margin: 0.5em auto;
+  border-radius: 5em;
+}
+
+.color-boxes {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  
+}
