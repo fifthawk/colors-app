@@ -1,4 +1,2 @@
-# colors-app
-# colors-app
-# colors-app
-# colors-app
+# Color App 🎨
+>Find a color palette! 
